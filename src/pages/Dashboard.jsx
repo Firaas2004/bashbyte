@@ -21,7 +21,7 @@ const Dashboard = () => {
         <div className="GEN DIV flex justify-between items-center pt-12 ">
           <div className="DIV 1 flex flex-col gap-2">
             <div className=" flex items-center gap-3">
-              <h1 className="text-4xl">Welcome, Bashir Ishaq</h1>
+              <h1 className="text-4xl">Welcome, Bashir </h1>
               <PiHandWavingBold className="size-10" />
             </div>
 
